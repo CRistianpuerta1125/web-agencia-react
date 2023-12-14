@@ -9,7 +9,7 @@ const HowWeWork = () => {
       id: 1,
     },
     {
-      text: " We design your site and do a review.",
+      text: " Diseñamos tu sitio y hacemos una revisión.",
       id: 2,
     },
     {
