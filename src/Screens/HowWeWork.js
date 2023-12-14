@@ -5,7 +5,7 @@ import Step from "../Components/Step";
 const HowWeWork = () => {
   const steps = [
     {
-      text: " You tell us your proposal.",
+      text: " Cuéntanos tu propuesta.",
       id: 1,
     },
     {
