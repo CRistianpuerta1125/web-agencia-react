@@ -13,15 +13,15 @@ const HowWeWork = () => {
       id: 2,
     },
     {
-      text: " We develop your website.",
+      text: " Desarrollamos tu sitio web.",
       id: 3,
     },
     {
-      text: " We deploy your website.",
+      text: " Implementamos tu sitio web.",
       id: 4,
     },
     {
-      text: " You enjoy all the benefits of having a website for your company.",
+      text: " Disfrutas de todos los beneficios de tener un sitio web para tu empresa.",
       id: 5,
     },
   ];
