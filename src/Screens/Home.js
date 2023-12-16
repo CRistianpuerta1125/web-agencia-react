@@ -7,7 +7,7 @@ const Home = () => {
     <div name="Home" className={styles.home}>
       <div className={styles.titleContainer}>
         <p>
-          Expand your <br />
+          Expande <br />
           <b>business</b>
         </p>
         <p>
