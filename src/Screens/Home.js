@@ -11,7 +11,7 @@ const Home = () => {
           <b>Negocios</b>
         </p>
         <p>
-          With the best <br />
+          En la mejor <br />
           <b>online presence</b>
         </p>
       </div>
