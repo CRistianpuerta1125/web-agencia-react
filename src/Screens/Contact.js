@@ -19,9 +19,9 @@ const Contact = () => {
           type="Email"
           className={styles.input}
         ></input>
-        <label for="Message">Message</label>
+        <label for="Message">Mensage</label>
         <textarea id="Message" className={styles.textArea}></textarea>
-        <button type="submit">Send</button>
+        <button type="submit">Enviar</button>
       </form>
     </div>
   );
